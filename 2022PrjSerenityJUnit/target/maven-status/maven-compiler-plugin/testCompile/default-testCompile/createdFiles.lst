@@ -1,0 +1,6 @@
+ssvv\steps\serenity\emag\EmagEndUserSteps.class
+ssvv\features\search\EmagSearchByKeywordStoryDdt.class
+ssvv\features\search\EmagSearchByKeywordStoryDdtError.class
+ssvv\pages\emag\EmagPage.class
+ssvv\features\search\EmagSubscribeStoryDdt.class
+ssvv\features\search\EmagSubscribeStoryDdtError.class

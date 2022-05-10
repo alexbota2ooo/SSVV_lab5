@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Emag search by keyword story ddt","Search emag by keyword test DDT","SUCCESS","2022-05-09T19:45:34.301+03:00[Europe/Athens]","0.0","38.66"
+"Emag search by keyword story ddt error","Search emag by keyword test DDT","SUCCESS","2022-05-09T19:49:24.451+03:00[Europe/Athens]","0.0","47.73"
+"Emag subscribe story ddt","Subscribe test DDT","SUCCESS","2022-05-09T20:35:51.702+03:00[Europe/Athens]","0.0","14.97"
+"Emag subscribe story ddt error","Subscribe test DDT","SUCCESS","2022-05-09T20:37:13.552+03:00[Europe/Athens]","0.0","10.53"

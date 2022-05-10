@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ssvv.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.533 s <<< FAILURE! - in ssvv.features.search.SearchByKeywordStory
+ssvv.features.search.SearchByKeywordStory.initializationError  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+

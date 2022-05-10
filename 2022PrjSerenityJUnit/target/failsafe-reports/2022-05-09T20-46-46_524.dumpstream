@@ -1,0 +1,4 @@
+# Created at 2022-05-09T20:46:47.080
+Boot Manifest-JAR contains absolute paths in classpath 'E:\CS\An 3\VVSS\Lab5\2022PrjSerenityJUnit\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

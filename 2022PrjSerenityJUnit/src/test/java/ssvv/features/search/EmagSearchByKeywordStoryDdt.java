@@ -15,7 +15,7 @@ import org.openqa.selenium.WebDriver;
 import ssvv.steps.serenity.emag.EmagEndUserSteps;
 
 @RunWith(SerenityParameterizedRunner.class)
-@UseTestDataFrom("src/test/resources/emag/AltexValidSearch.csv")
+@UseTestDataFrom("src/test/resources/emag/EmagValidSearch.csv")
 public class EmagSearchByKeywordStoryDdt {
 
     @Managed(uniqueSession = true)

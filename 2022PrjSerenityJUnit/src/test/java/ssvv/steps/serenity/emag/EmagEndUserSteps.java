@@ -1,7 +1,6 @@
 package ssvv.steps.serenity.emag;
 
 import net.thucydides.core.annotations.Step;
-import org.yecht.Data;
 import ssvv.pages.emag.EmagPage;
 import ssvv.pages.emag.EmagPageOnSearch;
 
